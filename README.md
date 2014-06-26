@@ -12,12 +12,12 @@ pbrpcBenchmarkTesttool
 
 
 ### 截图:    
-**1.服务端资源占用:**
+**1.服务端资源占用(服务端CPU资源占用约100%):**
 ![image](screenshot/001server_resource.png)
 
-**2.客户端资源占用:**
+**2.客户端资源占用(服务端CPU资源占用约100%):**
 ![image](screenshot/002client_resource.jpg)     
 
-**3.测试结果:**
+**3.测试结果(测试时间1分钟，QPS约77534.6):**
 ![image](screenshot/003client_result.png)  
 
