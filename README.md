@@ -13,7 +13,7 @@ pbrpcBenchmarkTesttool
 
 ### 截图:    
 **1.服务端资源占用:**
-![image](screenshot/001server_resource.png
+![image](screenshot/001server_resource.png)
 
 **2.客户端资源占用:**
 ![image](screenshot/002client_resource.jpg)     
