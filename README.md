@@ -1,4 +1,4 @@
-pbrpcBenchmarkTesttool
+pbrpcbenchmarktesttool
 =====================
 
 ### 介绍:
